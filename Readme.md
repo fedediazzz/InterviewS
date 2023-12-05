@@ -6,7 +6,7 @@ Before running the tests, make sure you have the following installed:
 
  ##Installation
  Clone this repository:
-   git clone https://github.com/fedediazzz/Stensul-Interview.git
+   git clone https://github.com/fedediazzz/InterviewS.git
 
 ##Configuration
 1.Open cypress.json and update the configurations as needed.
